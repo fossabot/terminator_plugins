@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filgarm%2Fterminator_plugins.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filgarm%2Fterminator_plugins?ref=badge_shield)
+
 Terminator plugins
 ==================
 
@@ -25,3 +27,7 @@ For my use case, this limitation is not critical so far, so I did not spent time
 P.S. some useful information on writing Terminator plugins can be found [here](http://www.tenshu.net/2010/04/writing-terminator-plugins.html).
 
 Let me know if there are any bugs found.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filgarm%2Fterminator_plugins.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filgarm%2Fterminator_plugins?ref=badge_large)
